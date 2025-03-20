@@ -47,7 +47,7 @@ function printArr(arr){
             str+="\n";
         }
     }
-    fs.writeFileSync("./Primes/output.txt", `Welcome to the list of primes. Here are ${arr.length} primes:\n\n` + str);
+    fs.writeFileSync("output.txt", `Welcome to the list of primes. Here are ${arr.length} primes:\n\n` + str);
     let retVal;
     if(Date.now() - start > 1000){
         retVal = `${((Date.now() - start) / 1000).toFixed(2)}s`;

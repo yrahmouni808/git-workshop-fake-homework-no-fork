@@ -1,0 +1,5 @@
+Welcome to the list of primes. Here are 10 primes:
+
+ **Prime(1)= 2** 
+ **Prime(2)= 3**  **Prime(3)= 5**  **Prime(4)= 7**  **Prime(5)= 11**  **Prime(6)= 13** 
+ **Prime(7)= 17**  **Prime(8)= 19**  **Prime(9)= 23**  **Prime(10)= 29** 
